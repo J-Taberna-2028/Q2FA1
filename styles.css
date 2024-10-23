@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	margin: 0 15%;
+	width: 75%;
+	border: 2px solid blue;
+	}
+
+.header-text{
+	background-color: lightgray;
+	margin-top: 20px;
+	padding: 0;
+}
+
+
+p{
+	font-family: monospace;
+	margin: 0;
+	padding: 0;
+	}	
